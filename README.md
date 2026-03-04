@@ -56,4 +56,3 @@
 
 ## 📌 Pinned Projects
 
-*(Add links to your best repositories here — 3 to 6 projects is ideal.)*
